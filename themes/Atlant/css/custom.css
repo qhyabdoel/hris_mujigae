@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+/* CUSTOM */
+.btnselectnew {
+  width: 100%;
+}
+.fa {
+  line-height: inherit;
+}
+.fa.custom-widget {
+  line-height: 1;
+}
+.label_info {
+  padding-left: 10px;
+  color: blue;
+}
+.custom-panel-heading {
+  text-align: right;
+}
+.glyphicon {
+  line-height: inherit;
+}
+ul.panel-controls > li {
+  margin: 0 5px;
+}
+.form-control {
+  line-height: inherit;
+}
+.x-navigation li > a .fa, .x-navigation li > a .glyphicon {
+  font-size: 18px;
+}
+.custom-list-group-item {
+  line-height: 15px !important;
+}
+.custom-panel {
+  width: 300px !important;
+}
+.button-choose-select {
+  cursor: pointer;
+}
+.modal-dialog {
+  max-width: 856px;
+  width: auto;
+}
+.field_presences {
+  background: #f1f5f9;
+}
+.field_payments {
+  background: #faebcc;
+}
+
+.over {
+  overflow: scroll;
+}

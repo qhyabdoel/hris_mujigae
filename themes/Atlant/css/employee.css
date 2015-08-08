@@ -1,0 +1,12 @@
+.login-container {
+  background: url("../assets/bluestar.jpg") no-repeat scroll left top / 100% auto #33414e;
+}
+
+.login-container .login-box .login-body {
+  background: #4a5660;
+  border: solid 10px;
+}
+
+.login-container .login-box {
+  width: 450px;
+}

@@ -1,0 +1,7 @@
+INSERT INTO `masters_outlets` VALUES (4,"MGM","Mujigae Grand Metropolitan Bekasi","mgm@mujigae.com",2,"Jl. ",NULL,101,12,181,NULL,NULL,"",NULL,NULL,30,NULL,1);
+INSERT INTO `masters_outlets` VALUES (5,"MKG","Mujigae Kelapa Gading","mkg@mujigae.com",2,"Jl. ",NULL,101,12,181,NULL,NULL,"",NULL,NULL,30,NULL,1);
+INSERT INTO `masters_outlets` VALUES (6,"MKR","Mujigae Karawaci","mkr@mujigae.com",2,"Jl. ",NULL,101,12,181,NULL,NULL,"",NULL,NULL,30,NULL,1);
+INSERT INTO `masters_outlets` VALUES (7,"MMC","Mujigae Margo city","mmc@mujigae.com",2,"Jl. ",NULL,101,12,181,NULL,NULL,"",NULL,NULL,30,NULL,1);
+INSERT INTO `masters_outlets` VALUES (8,"MPV","Mujigae Pluit Vilage","mpv@mujigae.com",2,"Jl. ",NULL,101,12,181,NULL,NULL,"",NULL,NULL,30,NULL,1);
+INSERT INTO `masters_outlets` VALUES (9,"MSB,Mujigae Summarecon Bekasi","msb@mujigae.com",2,"Jl. ",NULL,101,12,181,NULL,NULL,"",NULL,NULL,30,NULL,1);
+INSERT INTO `masters_outlets` VALUES (10,"MSP","Mujigae Serpong","msp@mujigae.com",2,"Jl. ",NULL,101,12,181,NULL,NULL,"",NULL,NULL,30,NULL,1);

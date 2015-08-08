@@ -1,0 +1,1 @@
+<button type="button" class="btn btn-default" id="dialog_tes2" onclick="viewDialogBox(this)">Tes Buka Dialog 2</button>
